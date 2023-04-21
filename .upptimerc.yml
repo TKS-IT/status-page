@@ -4,6 +4,34 @@ repo: status-page
 sites:
   - name: CHECKS EU
     url: https://tkschecks.com
+  - name: CHECKS EU API
+    url: $CHECKS_API_EU
+    expectedStatusCodes:
+      - 401
+  - name: CHECKS US
+    url: https://us.tkschecks.com
+  - name: CHECKS US API
+    url: $CHECKS_API_US
+    expectedStatusCodes:
+      - 401
+  - name: CHECKS LATAM
+    url: https://latam.tkschecks.com
+  - name: CHECKS LATAM API
+    url: $CHECKS_API_LATAM
+    expectedStatusCodes:
+      - 401
+  - name: ALPHABET
+    url: https://alphabet.tkschecks.com
+  - name: ALPHABET API
+    url: $ALPHABET_API
+    expectedStatusCodes:
+      - 401
+  - name: CrossCHECKS
+    url: https://cross.tkschecks.com
+  - name: TKS Corporate Website
+    url: https://tksauditor.com
+  - name: TKS US Corporate Website
+    url: https://www.tkschecksusa.com
 assignes:
   - TKS-IT
 status-website:
@@ -12,3 +40,5 @@ status-website:
   name: TKS Service Status
   introTitle: "**TKS Service Status**"
   introMessage: Publicly available status page for the application and services of TKS company.
+i18n:
+  footer: Powered by [TKS](https://tksauditor.com)
