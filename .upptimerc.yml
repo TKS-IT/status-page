@@ -1,31 +1,38 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: The Key to Success S.L. # Your GitHub organization or username, where this repository lives
+repo: status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: CHECKS EU
+    url: https://tkschecks.com
+  - name: CHECKS EU API
+    url: https://api-focus.grupotks.com
+  - name: CHECKS US
+    url: https://us.tkschecks.com
+  - name: CHECKS LATAM
+    url: https://latam.tkschecks.com
+  - name: CHECKS US-LATAM API
+    url: https://api-latam.tkschecks.com
+  - name: Alphabet 
+    url: https://alphabet.tkschecks.com
+  - name: Alphabet API
+    url: https://api-alphabet.tkschecks.com
+  - name: CrossCHECKS
+    url: https://cross.tkschecks.com
+  - name: TKS Corporative Site Worldwide
+    url: https://tksauditor.com
+  - name: TKS Corporative Site USA
+    url: https://www.tkschecksusa.com
+assignes:
+  - TKS-IT
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /status-page
+  logoUrl: https://tksauditor.com/wp-content/uploads/2022/05/logo-tks-web-1-200x171.jpeg
+  name: TKS Service Status
+  introTitle: "**TKS Service Status**"
+  introMessage: Publicly available status page for the application and services of TKS company.
   navbar:
-    - title: Status
+    - title: TKS Service Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
