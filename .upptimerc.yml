@@ -35,7 +35,7 @@ sites:
 assignes:
   - TKS-IT
 status-website:
-  baseUrl: /status-page
+  cname: status.grupotks.com
   logoUrl: https://tksauditor.com/wp-content/uploads/2022/05/logo-tks-web-1-200x171.jpeg
   name: TKS Service Status
   introTitle: "**TKS Service Status**"
