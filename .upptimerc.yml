@@ -5,7 +5,7 @@ sites:
   - name: CHECKS EU
     url: https://tkschecks.com
   - name: CHECKS EU API
-    url: $CHECKS_API_EU
+    url: $CHECK_API_EU
     expectedStatusCodes:
       - 401
   - name: CHECKS US
