@@ -28,6 +28,8 @@ sites:
       - 401
   - name: CrossCHECKS
     url: https://cross.tkschecks.com
+  - name: CrossCHECKS API
+    url: $CROSSCHECKS_API
   - name: TKS Corporate Website
     url: https://tksauditor.com
   - name: TKS US Corporate Website
