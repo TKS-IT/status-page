@@ -202,19 +202,19 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6950,
-    "timeDay": 6469,
-    "timeWeek": 6950,
-    "timeMonth": 6950,
-    "timeYear": 6950,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 8225,
+    "timeDay": 13084,
+    "timeWeek": 8225,
+    "timeMonth": 8225,
+    "timeYear": 8225,
     "dailyMinutesDown": {
-      "2023-04-25": 0
+      "2023-04-25": 10
     }
   }
 ]
