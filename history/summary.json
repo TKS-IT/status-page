@@ -22,9 +22,9 @@
     "url": "$CHECK_API_EU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-eu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 727,
     "timeMonth": 717,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-06": 0
+    }
   },
   {
     "name": "CHECKS US",
