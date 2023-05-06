@@ -22,19 +22,19 @@
     "url": "$CHECK_API_EU",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-eu-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1493,
-    "timeDay": 4867,
-    "timeWeek": 2105,
-    "timeMonth": 1493,
-    "timeYear": 1493,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1984,
+    "timeDay": 6109,
+    "timeWeek": 2878,
+    "timeMonth": 1984,
+    "timeYear": 1984,
     "dailyMinutesDown": {
-      "2023-05-06": 0
+      "2023-05-06": 12
     }
   },
   {
