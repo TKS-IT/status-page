@@ -40,10 +40,10 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
@@ -51,16 +51,18 @@
     "timeWeek": 665,
     "timeMonth": 732,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-16": 1
+    }
   },
   {
     "name": "CHECKS US API",
     "url": "$CHECKS_API_US",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-us-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 454,
     "timeMonth": 381,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-16": 0
+    }
   },
   {
     "name": "CHECKS LATAM",
@@ -203,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 9794,
     "timeDay": 3122,
     "timeWeek": 4457,
