@@ -40,20 +40,18 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 732,
-    "timeDay": 444,
-    "timeWeek": 665,
-    "timeMonth": 732,
-    "timeYear": 732,
-    "dailyMinutesDown": {
-      "2023-05-16": 5
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 719,
+    "timeDay": 381,
+    "timeWeek": 622,
+    "timeMonth": 719,
+    "timeYear": 719,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CHECKS US API",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-us-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 274,
     "timeWeek": 437,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {
-      "2023-05-16": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CHECKS LATAM",
@@ -206,9 +202,9 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
@@ -218,6 +214,7 @@
     "timeMonth": 9794,
     "timeYear": 9794,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2023-05-08": 62,
       "2023-05-02": 17,
       "2023-05-01": 17,
