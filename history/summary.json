@@ -13,7 +13,7 @@
     "time": 750,
     "timeDay": 884,
     "timeWeek": 665,
-    "timeMonth": 742,
+    "timeMonth": 721,
     "timeYear": 750,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1307,
     "timeDay": 731,
     "timeWeek": 645,
-    "timeMonth": 1326,
+    "timeMonth": 1336,
     "timeYear": 1307,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 673,
     "timeDay": 706,
     "timeWeek": 484,
-    "timeMonth": 560,
+    "timeMonth": 538,
     "timeYear": 673,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 365,
     "timeDay": 350,
     "timeWeek": 325,
-    "timeMonth": 363,
+    "timeMonth": 352,
     "timeYear": 365,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 503,
     "timeDay": 541,
     "timeWeek": 431,
-    "timeMonth": 505,
+    "timeMonth": 497,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 78,
     "timeDay": 85,
     "timeWeek": 63,
-    "timeMonth": 76,
+    "timeMonth": 75,
     "timeYear": 78,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 693,
     "timeDay": 817,
     "timeWeek": 661,
-    "timeMonth": 691,
+    "timeMonth": 675,
     "timeYear": 693,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 518,
     "timeDay": 674,
     "timeWeek": 529,
-    "timeMonth": 517,
+    "timeMonth": 511,
     "timeYear": 518,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 579,
     "timeDay": 778,
     "timeWeek": 538,
-    "timeMonth": 580,
+    "timeMonth": 574,
     "timeYear": 579,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 128,
     "timeDay": 143,
     "timeWeek": 117,
-    "timeMonth": 128,
+    "timeMonth": 125,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 1700,
     "timeDay": 1779,
     "timeWeek": 1512,
-    "timeMonth": 1689,
+    "timeMonth": 1661,
     "timeYear": 1700,
     "dailyMinutesDown": {}
   },
@@ -202,18 +202,19 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.72%",
     "time": 9082,
     "timeDay": 8162,
-    "timeWeek": 5342,
-    "timeMonth": 9178,
+    "timeWeek": 4831,
+    "timeMonth": 9401,
     "timeYear": 9082,
     "dailyMinutesDown": {
+      "2023-05-24": 0,
       "2023-05-17": 16,
       "2023-05-08": 62,
       "2023-05-02": 17,
