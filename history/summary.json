@@ -4,10 +4,10 @@
     "url": "https://tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/tkschecks.com.ico",
     "slug": "checks-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
@@ -15,7 +15,9 @@
     "timeWeek": 666,
     "timeMonth": 718,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-26": 1
+    }
   },
   {
     "name": "CHECKS EU API",
@@ -211,7 +213,7 @@
     "time": 8657,
     "timeDay": 2839,
     "timeWeek": 4402,
-    "timeMonth": 8544,
+    "timeMonth": 8603,
     "timeYear": 8657,
     "dailyMinutesDown": {
       "2023-05-17": 16,
