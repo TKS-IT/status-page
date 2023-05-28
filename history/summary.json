@@ -42,19 +42,19 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.80%",
-    "time": 1437,
-    "timeDay": 5645,
-    "timeWeek": 3239,
-    "timeMonth": 1585,
-    "timeYear": 1437,
+    "time": 1587,
+    "timeDay": 6045,
+    "timeWeek": 3614,
+    "timeMonth": 1777,
+    "timeYear": 1587,
     "dailyMinutesDown": {
-      "2023-05-28": 104
+      "2023-05-28": 107
     }
   },
   {
@@ -62,11 +62,11 @@
     "url": "$CHECKS_API_US",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-us-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 879,
     "timeDay": 3619,
@@ -74,7 +74,7 @@
     "timeMonth": 1022,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2023-05-28": 32
+      "2023-05-28": 34
     }
   },
   {
@@ -82,10 +82,10 @@
     "url": "https://latam.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/latam.tkschecks.com.ico",
     "slug": "checks-latam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 897,
@@ -94,7 +94,7 @@
     "timeMonth": 1033,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2023-05-28": 40
+      "2023-05-28": 41
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://alphabet.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/alphabet.tkschecks.com.ico",
     "slug": "alphabet",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 1391,
-    "timeDay": 6126,
-    "timeWeek": 3425,
-    "timeMonth": 1618,
-    "timeYear": 1391,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1390,
+    "timeDay": 5438,
+    "timeWeek": 3262,
+    "timeMonth": 1609,
+    "timeYear": 1390,
     "dailyMinutesDown": {
-      "2023-05-28": 18
+      "2023-05-28": 23
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 815,
-    "timeDay": 2870,
-    "timeWeek": 1702,
-    "timeMonth": 914,
-    "timeYear": 815,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 995,
+    "timeDay": 3809,
+    "timeWeek": 2298,
+    "timeMonth": 1151,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-05-28": 18
+      "2023-05-28": 23
     }
   },
   {
@@ -161,19 +161,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 877,
     "timeDay": 3976,
     "timeWeek": 1925,
     "timeMonth": 983,
     "timeYear": 877,
-    "dailyMinutesDown": {
-      "2023-05-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CrossCHECKS API",
