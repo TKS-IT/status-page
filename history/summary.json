@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkschecks.com.ico",
     "slug": "checks-eu",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 949,
     "timeDay": 4118,
     "timeWeek": 1628,
     "timeMonth": 1012,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-05-28": 3
+      "2023-05-28": 20
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
-    "time": 1031,
-    "timeDay": 5091,
-    "timeWeek": 2162,
-    "timeMonth": 1058,
-    "timeYear": 1031,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
+    "time": 1118,
+    "timeDay": 5113,
+    "timeWeek": 2416,
+    "timeMonth": 1173,
+    "timeYear": 1118,
     "dailyMinutesDown": {
-      "2023-05-28": 42
+      "2023-05-28": 56
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$CHECKS_API_US",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-us-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 444,
-    "timeDay": 1661,
-    "timeWeek": 704,
-    "timeMonth": 467,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 527,
+    "timeDay": 2315,
+    "timeWeek": 1029,
+    "timeMonth": 576,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-05-28": 18
+      "2023-05-28": 32
     }
   },
   {
@@ -82,11 +82,11 @@
     "url": "https://latam.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/latam.tkschecks.com.ico",
     "slug": "checks-latam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
     "time": 620,
     "timeDay": 3030,
@@ -94,7 +94,7 @@
     "timeMonth": 667,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2023-05-28": 40
+      "2023-05-28": 42
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 740,
     "timeDay": 3049,
     "timeWeek": 1540,
     "timeMonth": 817,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-05-28": 11
+      "2023-05-28": 1
     }
   },
   {
@@ -160,19 +160,19 @@
     "url": "https://cross.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 567,
     "timeDay": 413,
     "timeWeek": 521,
     "timeMonth": 560,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2023-05-28": 11
+      "2023-05-28": 0
     }
   },
   {
