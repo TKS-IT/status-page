@@ -40,19 +40,19 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
-    "time": 837,
-    "timeDay": 4787,
-    "timeWeek": 1444,
-    "timeMonth": 795,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.90%",
+    "time": 906,
+    "timeDay": 4527,
+    "timeWeek": 1701,
+    "timeMonth": 890,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2023-05-28": 41
+      "2023-05-28": 50
     }
   },
   {
@@ -116,9 +116,9 @@
     "url": "https://alphabet.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/alphabet.tkschecks.com.ico",
     "slug": "alphabet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 702,
     "timeMonth": 681,
     "timeYear": 696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "ALPHABET API",
