@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkschecks.com.ico",
     "slug": "checks-eu",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.84%",
     "time": 1502,
     "timeDay": 4678,
     "timeWeek": 3001,
     "timeMonth": 1733,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2023-05-28": 91
+      "2023-05-28": 86
     }
   },
   {
@@ -62,10 +62,10 @@
     "url": "$CHECKS_API_US",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-us-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.88%",
     "time": 1214,
@@ -74,7 +74,7 @@
     "timeMonth": 1430,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2023-05-28": 64
+      "2023-05-28": 65
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://latam.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/latam.tkschecks.com.ico",
     "slug": "checks-latam",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.88%",
-    "time": 1168,
-    "timeDay": 3651,
-    "timeWeek": 2523,
-    "timeMonth": 1369,
-    "timeYear": 1168,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.86%",
+    "time": 1332,
+    "timeDay": 4167,
+    "timeWeek": 2930,
+    "timeMonth": 1576,
+    "timeYear": 1332,
     "dailyMinutesDown": {
-      "2023-05-28": 61
+      "2023-05-28": 72
     }
   },
   {
@@ -161,19 +161,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1361,
     "timeDay": 4944,
     "timeWeek": 3190,
     "timeMonth": 1606,
     "timeYear": 1361,
-    "dailyMinutesDown": {
-      "2023-05-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CrossCHECKS API",
