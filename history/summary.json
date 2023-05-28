@@ -40,19 +40,19 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 515,
-    "timeWeek": 492,
-    "timeMonth": 537,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
+    "time": 837,
+    "timeDay": 4787,
+    "timeWeek": 1444,
+    "timeMonth": 795,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2023-05-28": 1
+      "2023-05-28": 40
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://latam.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/latam.tkschecks.com.ico",
     "slug": "checks-latam",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 464,
-    "timeWeek": 457,
-    "timeMonth": 502,
-    "timeYear": 501,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
+    "time": 620,
+    "timeDay": 3030,
+    "timeWeek": 1100,
+    "timeMonth": 667,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2023-05-28": 0
+      "2023-05-28": 40
     }
   },
   {
