@@ -4,19 +4,19 @@
     "url": "https://tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/tkschecks.com.ico",
     "slug": "checks-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 741,
-    "timeDay": 695,
-    "timeWeek": 694,
-    "timeMonth": 720,
-    "timeYear": 741,
+    "time": 845,
+    "timeDay": 3207,
+    "timeWeek": 1197,
+    "timeMonth": 867,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-05-28": 4
+      "2023-05-28": 5
     }
   },
   {
@@ -64,9 +64,9 @@
     "slug": "checks-us-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 353,
     "timeDay": 199,
@@ -74,7 +74,7 @@
     "timeMonth": 347,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-05-28": 3
+      "2023-05-28": 7
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://alphabet.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/alphabet.tkschecks.com.ico",
     "slug": "alphabet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 811,
-    "timeDay": 3106,
-    "timeWeek": 1320,
-    "timeMonth": 841,
-    "timeYear": 811,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 914,
+    "timeDay": 3858,
+    "timeWeek": 1769,
+    "timeMonth": 982,
+    "timeYear": 914,
     "dailyMinutesDown": {
-      "2023-05-28": 2
+      "2023-05-28": 5
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 758,
-    "timeWeek": 566,
-    "timeMonth": 517,
-    "timeYear": 521,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 673,
+    "timeDay": 3922,
+    "timeWeek": 1381,
+    "timeMonth": 729,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-05-28": 1
+      "2023-05-28": 4
     }
   },
   {
