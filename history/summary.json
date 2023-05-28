@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkschecks.com.ico",
     "slug": "checks-eu",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.84%",
     "time": 1695,
     "timeDay": 5069,
     "timeWeek": 3402,
     "timeMonth": 1976,
     "timeYear": 1695,
     "dailyMinutesDown": {
-      "2023-05-28": 92
+      "2023-05-28": 86
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://us.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "88.06%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.68%",
-    "time": 2039,
-    "timeDay": 6009,
-    "timeWeek": 4253,
-    "timeMonth": 2322,
-    "timeYear": 2039,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "87.24%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.65%",
+    "time": 2169,
+    "timeDay": 6243,
+    "timeWeek": 4492,
+    "timeMonth": 2480,
+    "timeYear": 2169,
     "dailyMinutesDown": {
-      "2023-05-28": 171
+      "2023-05-28": 183
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-us-api",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.88%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.88%",
     "time": 1509,
     "timeDay": 4533,
     "timeWeek": 3243,
     "timeMonth": 1775,
     "timeYear": 1509,
     "dailyMinutesDown": {
-      "2023-05-28": 70
+      "2023-05-28": 64
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1316,
-    "timeDay": 4056,
-    "timeWeek": 2882,
-    "timeMonth": 1547,
-    "timeYear": 1316,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 1419,
+    "timeDay": 4273,
+    "timeWeek": 3092,
+    "timeMonth": 1674,
+    "timeYear": 1419,
     "dailyMinutesDown": {
-      "2023-05-28": 19
+      "2023-05-28": 32
     }
   },
   {
@@ -160,9 +160,9 @@
     "url": "https://cross.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,7 +171,9 @@
     "timeWeek": 3285,
     "timeMonth": 1686,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "CrossCHECKS API",
