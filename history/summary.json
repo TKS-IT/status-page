@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.tkschecks.com.ico",
     "slug": "checks-us",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "93.21%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.80%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.80%",
     "time": 1437,
     "timeDay": 5645,
     "timeWeek": 3239,
     "timeMonth": 1585,
     "timeYear": 1437,
     "dailyMinutesDown": {
-      "2023-05-28": 98
+      "2023-05-28": 104
     }
   },
   {
@@ -120,10 +120,10 @@
     "url": "https://alphabet.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/alphabet.tkschecks.com.ico",
     "slug": "alphabet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1391,
@@ -132,7 +132,7 @@
     "timeMonth": 1618,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2023-05-28": 17
+      "2023-05-28": 18
     }
   },
   {
@@ -140,9 +140,9 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -160,19 +160,19 @@
     "url": "https://cross.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 2090,
-    "timeWeek": 1068,
-    "timeMonth": 713,
-    "timeYear": 678,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 877,
+    "timeDay": 3976,
+    "timeWeek": 1925,
+    "timeMonth": 983,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2023-05-28": 0
+      "2023-05-28": 6
     }
   },
   {
