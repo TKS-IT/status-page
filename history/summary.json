@@ -160,10 +160,10 @@
     "url": "https://cross.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 1543,
@@ -172,6 +172,7 @@
     "timeMonth": 1872,
     "timeYear": 1543,
     "dailyMinutesDown": {
+      "2023-06-01": 1,
       "2023-05-28": 35
     }
   },
@@ -180,9 +181,9 @@
     "url": "$CROSSCHECKS_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cross-checks-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,7 +192,9 @@
     "timeWeek": 263,
     "timeMonth": 170,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "TKS Corporate Website",
@@ -205,7 +208,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1708,
-    "timeDay": 1764,
+    "timeDay": 1873,
     "timeWeek": 1726,
     "timeMonth": 1679,
     "timeYear": 1708,
