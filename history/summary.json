@@ -13,7 +13,7 @@
     "time": 1403,
     "timeDay": 6663,
     "timeWeek": 2598,
-    "timeMonth": 1280,
+    "timeMonth": 1291,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2023-05-28": 86
@@ -33,7 +33,7 @@
     "time": 877,
     "timeDay": 0,
     "timeWeek": 759,
-    "timeMonth": 707,
+    "timeMonth": 701,
     "timeYear": 877,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 1447,
     "timeDay": 5096,
     "timeWeek": 2144,
-    "timeMonth": 980,
+    "timeMonth": 990,
     "timeYear": 1447,
     "dailyMinutesDown": {
       "2023-06-04": 27,
@@ -72,7 +72,7 @@
     "time": 1009,
     "timeDay": 4830,
     "timeWeek": 1905,
-    "timeMonth": 787,
+    "timeMonth": 799,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2023-08-16": 30,
@@ -93,7 +93,7 @@
     "time": 1055,
     "timeDay": 2446,
     "timeWeek": 1044,
-    "timeMonth": 690,
+    "timeMonth": 694,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-06-30": 21,
@@ -114,7 +114,7 @@
     "time": 198,
     "timeDay": 5290,
     "timeWeek": 845,
-    "timeMonth": 258,
+    "timeMonth": 264,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -132,7 +132,7 @@
     "time": 1277,
     "timeDay": 4850,
     "timeWeek": 1279,
-    "timeMonth": 812,
+    "timeMonth": 817,
     "timeYear": 1277,
     "dailyMinutesDown": {
       "2023-05-28": 73
@@ -143,18 +143,19 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1059,
     "timeDay": 4989,
     "timeWeek": 1174,
-    "timeMonth": 656,
+    "timeMonth": 654,
     "timeYear": 1059,
     "dailyMinutesDown": {
+      "2023-08-16": 1,
       "2023-05-28": 18
     }
   },
@@ -164,18 +165,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cross.tkschecks.com.ico",
     "slug": "cross-checks",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 1070,
     "timeDay": 4692,
     "timeWeek": 2046,
-    "timeMonth": 951,
+    "timeMonth": 957,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2023-08-16": 12,
       "2023-05-28": 35
     }
   },
@@ -185,19 +185,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cross-checks-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 112,
     "timeWeek": 141,
     "timeMonth": 131,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2023-08-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TKS Corporate Website",
@@ -213,7 +211,7 @@
     "time": 1685,
     "timeDay": 0,
     "timeWeek": 1682,
-    "timeMonth": 1593,
+    "timeMonth": 1588,
     "timeYear": 1685,
     "dailyMinutesDown": {}
   },
@@ -231,7 +229,7 @@
     "time": 12275,
     "timeDay": 4835,
     "timeWeek": 14502,
-    "timeMonth": 14995,
+    "timeMonth": 15083,
     "timeYear": 12275,
     "dailyMinutesDown": {
       "2023-08-11": 180,
