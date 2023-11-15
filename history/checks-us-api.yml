@@ -1,7 +1,7 @@
 url: $CHECKS_API_US
 status: down
-code: 502
-responseTime: 304
-lastUpdated: 2023-11-15T22:40:19.859Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-15T23:16:27.289Z
 startTime: 2023-04-21T15:41:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
