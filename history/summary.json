@@ -229,19 +229,19 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1776,
-    "timeDay": 1071,
-    "timeWeek": 1626,
-    "timeMonth": 1844,
-    "timeYear": 1776,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 1778,
+    "timeDay": 1522,
+    "timeWeek": 1715,
+    "timeMonth": 1862,
+    "timeYear": 1778,
     "dailyMinutesDown": {
-      "2023-12-19": 0
+      "2023-12-19": 44
     }
   },
   {
