@@ -201,9 +201,9 @@
     "slug": "cross-checks",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 798,
     "timeDay": 442,
@@ -211,7 +211,7 @@
     "timeMonth": 540,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-04-01": 1,
+      "2024-04-01": 27,
       "2024-01-09": 18,
       "2023-08-17": 39,
       "2023-05-28": 35
@@ -222,19 +222,19 @@
     "url": "$CROSSCHECKS_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cross-checks-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 110,
-    "timeWeek": 123,
-    "timeMonth": 130,
-    "timeYear": 137,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 156,
+    "timeDay": 3572,
+    "timeWeek": 987,
+    "timeMonth": 346,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 26
     }
   },
   {
