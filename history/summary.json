@@ -6,9 +6,9 @@
     "slug": "checks-eu",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1206,
     "timeDay": 3920,
@@ -16,7 +16,6 @@
     "timeMonth": 1114,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2024-04-21": 6,
       "2024-03-11": 52,
       "2024-01-28": 518,
       "2024-01-08": 19,
@@ -160,10 +159,10 @@
     "url": "https://alphabet.tkschecks.com",
     "icon": "https://icons.duckduckgo.com/ip3/alphabet.tkschecks.com.ico",
     "slug": "alphabet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 1018,
@@ -172,6 +171,7 @@
     "timeMonth": 1148,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2024-04-21": 1,
       "2024-04-20": 37,
       "2024-04-19": 2,
       "2023-05-28": 73
@@ -182,9 +182,9 @@
     "url": "$ALPHABET_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "alphabet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,6 +194,7 @@
     "timeMonth": 1316,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2023-05-28": 18
     }
   },
@@ -276,7 +277,7 @@
     "timeDay": 5203,
     "timeWeek": 4680,
     "timeMonth": 4878,
-    "timeYear": 9059,
+    "timeYear": 9039,
     "dailyMinutesDown": {
       "2024-02-14": 16,
       "2023-12-27": 29,
