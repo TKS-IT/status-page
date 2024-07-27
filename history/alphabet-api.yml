@@ -1,7 +1,7 @@
 url: $ALPHABET_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-27T13:04:30.416Z
+status: up
+code: 401
+responseTime: 555
+lastUpdated: 2024-07-27T13:17:03.923Z
 startTime: 2023-04-21T15:41:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
