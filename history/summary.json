@@ -152,7 +152,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checks-latam-api",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -273,9 +273,9 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -285,6 +285,7 @@
     "timeMonth": 1876,
     "timeYear": 1787,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2025-01-27": 20,
       "2025-01-23": 15,
       "2024-11-05": 48
