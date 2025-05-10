@@ -1,7 +1,7 @@
 url: $CHECK_API_EU
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-10T20:40:01.513Z
+status: up
+code: 401
+responseTime: 457
+lastUpdated: 2025-05-10T20:46:24.440Z
 startTime: 2023-04-21T15:41:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
