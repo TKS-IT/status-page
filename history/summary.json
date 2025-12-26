@@ -223,7 +223,8 @@
     "timeMonth": 0,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2025-12-25": 1435,
+      "2025-12-26": 0,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -471,7 +472,8 @@
     "timeMonth": 0,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-12-25": 1435,
+      "2025-12-26": 0,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -797,19 +799,19 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.78%",
-    "time": 2703,
-    "timeDay": 3005,
-    "timeWeek": 2908,
+    "time": 2704,
+    "timeDay": 2982,
+    "timeWeek": 2909,
     "timeMonth": 2975,
-    "timeYear": 2774,
+    "timeYear": 2775,
     "dailyMinutesDown": {
-      "2025-12-25": 0,
+      "2025-12-25": 5,
       "2025-12-24": 15,
       "2025-12-23": 16,
       "2025-12-22": 60,
@@ -839,8 +841,7 @@
       "2025-05-24": 46,
       "2025-03-13": 68,
       "2025-03-04": 77,
-      "2025-02-19": 45,
-      "2024-12-26": 21
+      "2025-02-19": 45
     }
   }
 ]
