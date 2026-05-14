@@ -1,7 +1,7 @@
 url: $CHECKS_API_LATAM
-status: down
-code: 500
-responseTime: 336
-lastUpdated: 2026-05-14T04:10:19.957Z
+status: up
+code: 401
+responseTime: 299
+lastUpdated: 2026-05-14T06:51:28.076Z
 startTime: 2023-04-21T15:41:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
