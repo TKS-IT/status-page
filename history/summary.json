@@ -39,11 +39,11 @@
     "status": "up",
     "uptime": "97.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "14.65%",
+    "uptimeWeek": "19.34%",
     "uptimeMonth": "11.25%",
     "uptimeYear": "92.15%",
     "time": 598,
-    "timeDay": 500,
+    "timeDay": 486,
     "timeWeek": 500,
     "timeMonth": 424,
     "timeYear": 534,
@@ -251,19 +251,18 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "88.78%",
-    "uptimeWeek": "69.30%",
-    "uptimeMonth": "66.48%",
-    "uptimeYear": "96.75%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "88.41%",
+    "uptimeWeek": "70.78%",
+    "uptimeMonth": "66.46%",
+    "uptimeYear": "96.77%",
     "time": 1929,
     "timeDay": 1947,
     "timeWeek": 1650,
     "timeMonth": 1793,
     "timeYear": 1925,
     "dailyMinutesDown": {
-      "2026-04-17": 108,
       "2026-04-18": 76,
       "2026-04-19": 82,
       "2026-04-22": 116,
@@ -311,7 +310,7 @@
       "2026-06-27": 689,
       "2026-06-28": 463,
       "2026-06-29": 24,
-      "2026-06-30": 162
+      "2026-06-30": 167
     }
   },
   {
@@ -319,16 +318,16 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.26%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "99.12%",
     "time": 2871,
     "timeDay": 2836,
     "timeWeek": 2523,
-    "timeMonth": 2632,
+    "timeMonth": 2618,
     "timeYear": 2926,
     "dailyMinutesDown": {
       "2025-09-13": 42,
@@ -410,7 +409,8 @@
       "2026-06-14": 76,
       "2026-06-17": 106,
       "2026-06-22": 244,
-      "2026-06-27": 135
+      "2026-06-27": 135,
+      "2026-06-30": 1
     }
   }
 ]
