@@ -39,7 +39,7 @@
     "status": "up",
     "uptime": "97.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.23%",
+    "uptimeWeek": "24.27%",
     "uptimeMonth": "11.25%",
     "uptimeYear": "92.15%",
     "time": 597,
@@ -253,10 +253,10 @@
     "slug": "tks-corporate-website",
     "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "76.41%",
-    "uptimeWeek": "70.84%",
-    "uptimeMonth": "66.07%",
-    "uptimeYear": "96.75%",
+    "uptimeDay": "69.17%",
+    "uptimeWeek": "69.80%",
+    "uptimeMonth": "65.83%",
+    "uptimeYear": "96.73%",
     "time": 1931,
     "timeDay": 1843,
     "timeWeek": 1659,
@@ -310,7 +310,7 @@
       "2026-06-28": 463,
       "2026-06-29": 24,
       "2026-06-30": 340,
-      "2026-07-01": 0
+      "2026-07-01": 105
     }
   },
   {
