@@ -40,7 +40,7 @@
     "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.84%",
+    "uptimeMonth": "44.97%",
     "uptimeYear": "92.15%",
     "time": 589,
     "timeDay": 334,
@@ -216,18 +216,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apac.tkschecks.com.ico",
     "slug": "checks-apac",
     "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
+    "uptime": "98.54%",
+    "uptimeDay": "80.62%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
     "time": 1315,
     "timeDay": 1457,
     "timeWeek": 1328,
     "timeMonth": 1315,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2026-07-12": 219
+      "2026-07-12": 279
     }
   },
   {
@@ -253,17 +253,17 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "71.12%",
-    "uptimeYear": "96.71%",
-    "time": 1913,
-    "timeDay": 1842,
-    "timeWeek": 1856,
-    "timeMonth": 1767,
-    "timeYear": 1923,
+    "uptimeDay": "80.00%",
+    "uptimeWeek": "85.27%",
+    "uptimeMonth": "70.98%",
+    "uptimeYear": "96.70%",
+    "time": 1912,
+    "timeDay": 1783,
+    "timeWeek": 1842,
+    "timeMonth": 1764,
+    "timeYear": 1922,
     "dailyMinutesDown": {
       "2026-06-05": 646,
       "2026-06-06": 610,
@@ -301,7 +301,7 @@
       "2026-07-08": 178,
       "2026-07-09": 207,
       "2026-07-11": 223,
-      "2026-07-12": 127
+      "2026-07-12": 187
     }
   },
   {
