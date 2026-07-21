@@ -42,7 +42,7 @@
     "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.09%",
+    "uptimeMonth": "75.19%",
     "uptimeYear": "92.15%",
     "time": 584,
     "timeDay": 616,
@@ -258,17 +258,17 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "93.33%",
-    "uptimeWeek": "91.69%",
+    "uptimeDay": "90.23%",
+    "uptimeWeek": "91.25%",
     "uptimeMonth": "80.59%",
-    "uptimeYear": "96.94%",
+    "uptimeYear": "96.93%",
     "time": 1913,
-    "timeDay": 2370,
-    "timeWeek": 1892,
-    "timeMonth": 1757,
-    "timeYear": 1922,
+    "timeDay": 2273,
+    "timeWeek": 1903,
+    "timeMonth": 1761,
+    "timeYear": 1923,
     "dailyMinutesDown": {
       "2026-06-09": 611,
       "2026-06-08": 46,
@@ -310,7 +310,7 @@
       "2026-07-18": 171,
       "2026-07-19": 123,
       "2026-07-20": 123,
-      "2026-07-21": 96
+      "2026-07-21": 141
     }
   },
   {
@@ -318,16 +318,16 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "99.02%",
-    "time": 2880,
-    "timeDay": 2864,
-    "timeWeek": 3107,
-    "timeMonth": 2713,
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "99.01%",
+    "time": 2879,
+    "timeDay": 2756,
+    "timeWeek": 3050,
+    "timeMonth": 2711,
     "timeYear": 2920,
     "dailyMinutesDown": {
       "2025-11-17": 18,
@@ -413,7 +413,7 @@
       "2026-07-10": 68,
       "2026-07-11": 73,
       "2026-07-12": 63,
-      "2026-07-21": 0
+      "2026-07-21": 45
     }
   }
 ]
