@@ -1,7 +1,7 @@
 url: $CHECKS_API_APAC
-status: up
-code: 401
-responseTime: 725
-lastUpdated: 2026-08-07T01:40:46.642Z
+status: down
+code: 403
+responseTime: 648
+lastUpdated: 2026-08-07T08:38:47.924Z
 startTime: 2026-06-29T10:57:20.322Z
 generator: Upptime <https://github.com/upptime/upptime>
