@@ -280,17 +280,17 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "98.21%",
     "time": 1890,
-    "timeDay": 1511,
-    "timeWeek": 1502,
-    "timeMonth": 1573,
-    "timeYear": 1900,
+    "timeDay": 1571,
+    "timeWeek": 1517,
+    "timeMonth": 1576,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2026-06-23": 317,
       "2026-06-24": 536,
@@ -334,7 +334,7 @@
       "2026-08-10": 30,
       "2026-08-11": 291,
       "2026-08-14": 43,
-      "2026-08-16": 69
+      "2026-08-16": 79
     }
   },
   {
