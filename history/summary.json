@@ -235,11 +235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apac.tkschecks.com.ico",
     "slug": "checks-apac",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.58%",
     "time": 1284,
     "timeDay": 1039,
     "timeWeek": 1246,
@@ -280,19 +280,19 @@
     "url": "https://tksauditor.com",
     "icon": "https://icons.duckduckgo.com/ip3/tksauditor.com.ico",
     "slug": "tks-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "98.45%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "98.47%",
     "time": 1884,
     "timeDay": 1970,
-    "timeWeek": 1513,
+    "timeWeek": 1510,
     "timeMonth": 1484,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2026-06-26": 160,
+      "2026-06-26": 57,
       "2026-06-27": 689,
       "2026-06-28": 463,
       "2026-06-29": 24,
@@ -334,7 +334,8 @@
       "2026-08-16": 133,
       "2026-08-17": 77,
       "2026-08-18": 70,
-      "2026-08-19": 142
+      "2026-08-19": 142,
+      "2026-08-22": 5
     }
   },
   {
@@ -342,9 +343,9 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.99%",
@@ -354,7 +355,6 @@
     "timeMonth": 2828,
     "timeYear": 2919,
     "dailyMinutesDown": {
-      "2025-12-06": 21,
       "2025-12-07": 17,
       "2025-12-08": 45,
       "2025-12-12": 34,
@@ -437,7 +437,8 @@
       "2026-07-31": 63,
       "2026-08-08": 41,
       "2026-08-18": 30,
-      "2026-08-19": 36
+      "2026-08-19": 36,
+      "2026-08-22": 1
     }
   }
 ]
