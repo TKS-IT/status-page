@@ -351,11 +351,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.99%",
+    "uptime": "99.70%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "98.96%",
     "time": 2906,
     "timeDay": 0,
     "timeWeek": 2854,
@@ -445,7 +445,7 @@
       "2026-08-22": 16,
       "2026-08-23": 80,
       "2026-08-26": 25,
-      "2026-10-06": 1
+      "2026-10-06": 133
     }
   }
 ]
