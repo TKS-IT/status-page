@@ -229,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/apac.tkschecks.com.ico",
     "slug": "checks-apac",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 1297,
     "timeDay": 1029,
     "timeWeek": 1312,
@@ -345,19 +345,18 @@
     "url": "https://www.tkschecksusa.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tkschecksusa.com.ico",
     "slug": "tks-us-corporate-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "91.87%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.79%",
     "time": 2935,
     "timeDay": 3451,
     "timeWeek": 3078,
     "timeMonth": 3074,
     "timeYear": 2953,
     "dailyMinutesDown": {
-      "2025-12-22": 60,
       "2025-12-23": 16,
       "2025-12-24": 15,
       "2025-12-26": 49,
@@ -441,7 +440,7 @@
       "2026-10-19": 327,
       "2026-10-31": 123,
       "2026-10-30": 32,
-      "2026-11-18": 117
+      "2026-11-18": 118
     }
   }
 ]
